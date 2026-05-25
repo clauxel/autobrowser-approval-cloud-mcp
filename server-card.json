@@ -1,0 +1,25 @@
+{
+  "error": "Error: server card fetch failed 522",
+  "fallback": {
+    "slug": "autobrowserapproval",
+    "name": "AutoBrowser Approval Cloud",
+    "website": "https://autobrowserapproval.clauxel.com/",
+    "endpoint": "https://autobrowserapproval.clauxel.com/mcp",
+    "serverCard": "https://autobrowserapproval.clauxel.com/.well-known/mcp/server-card.json",
+    "registryName": "com.clauxel.autobrowserapproval/autobrowserapproval-mcp",
+    "tools": [
+      "request_page_approval",
+      "read_session_state",
+      "submit_approval_result",
+      "export_approval_receipt"
+    ],
+    "docsRepo": "autobrowser-approval-cloud-mcp",
+    "docs": "https://github.com/clauxel/autobrowser-approval-cloud-mcp",
+    "packageName": "@clauxel/autobrowserapproval-mcp",
+    "directoryName": "autobrowserapproval-mcp",
+    "category": "Browser Automation",
+    "tagline": "Hosted MCP for AI agent browser approval MCP.",
+    "description": "AutoBrowser Approval Cloud is a paid remote MCP endpoint for AI agent browser approval MCP. It exposes structured JSON tools, a public server card, token-based access, usage receipts, and audit-ready workflow evidence for AI agents and coding teams.",
+    "icon": "https://autobrowserapproval.clauxel.com/favicon.svg"
+  }
+}
