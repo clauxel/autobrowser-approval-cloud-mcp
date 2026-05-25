@@ -1,0 +1,15 @@
+# AutoBrowser Approval Cloud
+
+AutoBrowser Approval Cloud is a hosted remote MCP for AI agent browser approval MCP.
+
+Website: https://autobrowserapproval.clauxel.com/
+Docs pattern reference: https://github.com/clauxel/MiroFish
+Primary keyword: AI agent browser approval MCP
+Type: MCP
+Default plan: team
+MCP endpoint: https://autobrowserapproval.clauxel.com/mcp
+Server card: https://autobrowserapproval.clauxel.com/server-card.json
+Registry name: com.clauxel.autobrowserapproval/autobrowserapproval-mcp
+Tools: request_page_approval, read_session_state, submit_approval_result, export_approval_receipt
+
+Public boundary: docs-only repository; no production source code or secrets.
